@@ -13,7 +13,7 @@ function entrar(){
    localStorage.setItem('usuario', usu)
    localStorage.setItem('password', pass)
    localStorage.setItem('email', email)
-   window.document.location = 'https://teo2303.github.io/javascript/pages/productos.html'; 
+   window.document.location = '../pages/productos.html'; 
    
     
 }
